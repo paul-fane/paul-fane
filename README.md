@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulgheee
+- 👋 Hi, I’m Paul Fane
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C, python, Java Script
 - 💞️ I’m looking to collaborate on ...
