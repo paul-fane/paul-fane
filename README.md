@@ -17,6 +17,7 @@
   - email:paul.eee47@gmail.com , fane.paul.dev@gmail.com
   - linkedin: https://www.linkedin.com/in/paul-fane-0320141b4/
   - youtube: https://www.youtube.com/playlist?list=PLOg703mu2uZ5Q5xZy3cFF-X4PmOB2cENK
+- Websites: https://planforworkout.com
 
 <!---
 paulgheee/paulgheee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
