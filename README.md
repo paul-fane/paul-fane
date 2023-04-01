@@ -2,17 +2,8 @@
 - 👀 I’m interested in an internship/entry-level Full Stack Developer position. 
 - 🌱 I’m currently learning Artificial Intelligence
 - About my skills:  
-✅️ Backend:
-• Python Django/Flask
-• Django REST Framework
-• SQL
-• JWT
-✅️ Frontend:
-• React
-• Javascript
-• HTML, CSS
-• Bootstrap
-• Jinja
+✅️ Backend: Python Django/Flask | Django REST Framework | SQL | JWT
+✅️ Frontend: React | Javascript | HTML, CSS | Bootstrap | Jinja
 - 📫 How to reach me:
   - email:paul.eee47@gmail.com , fane.paul.dev@gmail.com
   - linkedin: https://www.linkedin.com/in/paul-fane-0320141b4/
