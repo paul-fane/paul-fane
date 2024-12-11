@@ -6,7 +6,6 @@
 - 📫 How to reach me:
   - email: fane.paul.dev@gmail.com
   - linkedin: https://www.linkedin.com/in/paul-fane
-  - youtube: https://www.youtube.com/playlist?list=PLOg703mu2uZ5Q5xZy3cFF-X4PmOB2cENK
 - Websites: https://planforworkout.com
 
 <!---
